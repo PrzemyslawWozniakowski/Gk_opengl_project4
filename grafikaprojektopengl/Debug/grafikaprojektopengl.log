@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(160): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(241): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(247): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(250): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(258): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  grafikaprojektopengl.vcxproj -> C:\Users\Przem\source\repos\grafikaprojektopengl\Debug\GrafikaProjektOpengl.exe
