@@ -43,9 +43,13 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Source\fragment_shader.fs" />
-    <None Include="Source\vertex_shader.vs" />
     <None Include="Source\lamp.vs" />
     <None Include="Source\lamp.fs" />
+    <None Include="Source\floorshader.vs" />
+    <None Include="Source\floorshader.fs" />
+    <None Include="Source\phongshader.vs" />
+    <None Include="Source\phongshader.fs" />
+    <None Include="Source\gourardshader.vs" />
+    <None Include="Source\gourardshader.fs" />
   </ItemGroup>
 </Project>
