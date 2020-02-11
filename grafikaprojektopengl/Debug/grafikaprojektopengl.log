@@ -2,32 +2,32 @@
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(326): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(589): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(590): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(594): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(595): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(597): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(598): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(606): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(647): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(648): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(655): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(656): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(663): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(327): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(606): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(607): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(611): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(612): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(614): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(615): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(623): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(664): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(671): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(665): warning C4305: 'argument': truncation from 'double' to 'float'
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(672): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(682): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(683): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(690): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(691): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(698): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(673): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(680): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(681): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(688): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(689): warning C4305: 'argument': truncation from 'double' to 'float'
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(699): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(706): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(700): warning C4305: 'argument': truncation from 'double' to 'float'
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(707): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(708): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(715): warning C4305: 'argument': truncation from 'double' to 'float'
 c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(716): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(717): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(736): warning C4305: 'argument': truncation from 'double' to 'float'
-c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(737): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(723): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(724): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(733): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(734): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(753): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\przem\source\repos\grafikaprojektopengl\grafikaprojektopengl\source\main.cpp(754): warning C4305: 'argument': truncation from 'double' to 'float'
   grafikaprojektopengl.vcxproj -> C:\Users\Przem\source\repos\grafikaprojektopengl\Debug\GrafikaProjektOpengl.exe

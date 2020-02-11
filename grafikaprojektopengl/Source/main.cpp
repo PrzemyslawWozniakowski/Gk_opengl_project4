@@ -321,6 +321,7 @@ int main()
 	float ambientChange = -0.0001f;
 	float ambientStrength = 0.2f;
 
+	float ypos = 0;
 	while (!glfwWindowShouldClose(window))
 	{
 		float currentFrame = glfwGetTime();
@@ -341,7 +342,6 @@ int main()
 			shader = gourardShader;
 
 		glBindVertexArray(cubeVAO);
-
 		glm::vec3 ballPosition = glm::vec3(7.5 + 2 * cos((float)glfwGetTime()), -1.0, 3.5 + 2 * sin((float)glfwGetTime()));
 		glm::mat4 projection = glm::perspective(glm::radians(camera.Zoom), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
 		glm::mat4 view;
@@ -402,6 +402,22 @@ int main()
 		shader.setMat4("model", model);
 		shader.setVec3("objectColor", 0.9f, 0.5f, 0.7f);
 		glDrawArrays(GL_TRIANGLES, 0, 36);
+
+		
+		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(-5.0f, 2.0f+ypos/3, 4.0f));
+		model = glm::scale(model, glm::vec3(0.8f));
+		model = glm::rotate(model, (float)glfwGetTime(), glm::vec3(0.0f, 1.0f, 0.0f));
+		shader.setMat4("model", model);
+		shader.setVec3("objectColor", 0.2f, 0.1f, 1.0f);
+		glDrawArrays(GL_TRIANGLES, 0, 36);
+		model = glm::mat4(1.0f);
+		model = glm::translate(model, glm::vec3(-5.0f, 2.0f+ypos/3, 4.0f));
+		model = glm::scale(model, glm::vec3(0.8f));
+		model = glm::rotate(model, (float)glfwGetTime(), glm::vec3(1.0f, 1.0f, 0.0f));
+		shader.setMat4("model", model);
+		glDrawArrays(GL_TRIANGLES, 0, 36);
+		ypos += movex;
 
 		model = glm::mat4(1.0f);
 		model = glm::translate(model, movingContainer);
