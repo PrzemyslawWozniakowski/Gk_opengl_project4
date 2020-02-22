@@ -12,6 +12,7 @@ SPACE - changing between 3 modes of camera:
 - stationary (not moving) - its position can be changed using WSAD keys and view direction can be changed using mouse
 - stationary following a moving object - camera is directed at moving object
 - moving, following an object
+
 C - chaning between night and day (cycle)
 F - fog effect
 K - flashlight (only jusing stationary camera)
