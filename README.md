@@ -1,6 +1,6 @@
 # Gk_opengl_project4
 Project in openGL (GLFW)
-Simple 3D scene with cubes, spheres and pyramids. Gourard and Phong shading.
+Simple 3D scene with cubes, spheres and pyramids for Computer Graphics course lab MINI 2020. Gourard and Phong shading.
 
 To use the project "$(ProjectDir)include" has to be specified as Aditional Include Driectory
 and "$(ProjectDir)lib-vc2017" as Aditional Library Directory
