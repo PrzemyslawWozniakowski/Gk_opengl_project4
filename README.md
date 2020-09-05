@@ -2,8 +2,10 @@
 Project in openGL (GLFW)
 Simple 3D scene with cubes, spheres and pyramids for Computer Graphics course lab MINI 2020. Gourard and Phong shading.
 
-To use the project "$(ProjectDir)include" has to be specified as Aditional Include Driectory
-and "$(ProjectDir)lib-vc2017" as Aditional Library Directory
+To use the project "$(ProjectDir)include" has to be specified as Aditional Include Driectory,
+"glfw3.lib;opengl32.lib;" has to be added to Additional Dependencies,
+$(ProjectDir)lib-vc2017" as Aditional Library Directory
+and Platform "x86" has to be chosen in Configuration Manager.
 
 Control keys:
 
